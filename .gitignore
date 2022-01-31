@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints/
+Advertisement-AdClick_prediction/advertising.csv
+ecommerce_company/Ecommerce_Customers.csv
+Error_rate-K value/KNN_Project_Data.csv
+kyphosis project/kyphosis.csv
+Loan_Prediction_Project/loan_data.csv
+Titanic_Survival_Project/titanic_test.csv
+Titanic_Survival_Project/titanic_train.csv
