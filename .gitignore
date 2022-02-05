@@ -8,3 +8,6 @@ Loan_Prediction_Project/loan_data.csv
 Titanic_Survival_Project/titanic_test.csv
 Titanic_Survival_Project/titanic_train.csv
 University_Dataset/College_Data.csv
+Movie_Recommender_System/u.item
+Movie_Recommender_System/u.data
+Movie_Recommender_System/Movie_Id_Titles
